@@ -1,0 +1,14 @@
+bundle:
+  name: audience-explorer
+
+targets:
+  dev:
+    mode: development
+  prod:
+    mode: production
+
+resources:
+  apps:
+    audience_explorer:
+      name: audience-explorer
+      description: TV audience campaign analysis and program recommendation application
