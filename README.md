@@ -1,4 +1,4 @@
-# Audience Explorer - Databricks App
+# Business Portal - Databricks App
 
 A comprehensive TV audience campaign analysis and program recommendation application built with React and integrated with Databricks for data processing and analytics.
 
@@ -17,12 +17,10 @@ A comprehensive TV audience campaign analysis and program recommendation applica
 - Competitive analysis
 - Weekly performance trends
 
-### 🎯 Program Recommendations
-- AI-powered recommendation engine
-- Multi-factor scoring algorithm
-- Budget and time slot filtering
-- Risk assessment and confidence scoring
-- Performance prediction capabilities
+### 🎯 Audience analysis
+- Demographic audience details
+- Audience analysis
+- Program details
 
 ## Architecture
 
